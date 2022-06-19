@@ -1,7 +1,8 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/Gargi-Thakur/Gargi-Thakur/master/githubName.svg" alt="Gargi Thakur" />
 </h1>
-### Hi there 👋
+
+## Hi there 👋
 
 - 🔭 I’m currently working on my <a href="https://www.gargithakur.com" target="_blank">portfolio website</a>
 - 🌱 I’m currently learning DSA, WebGL, three.js 
