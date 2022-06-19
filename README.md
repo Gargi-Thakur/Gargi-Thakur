@@ -3,7 +3,7 @@
 </h1>
 
 ## Hi there 👋
-
+I'm Gargi, a Front-end Developer based in Vancouver, BC, Canada. I create custom websites and apps to help people go further online.
 - 🔭 I’m currently working on my <a href="https://www.gargithakur.com" target="_blank">portfolio website</a>
 - 🌱 I’m currently learning DSA, WebGL, three.js 
 - 🤔 I’m looking for frontend developer jobs
