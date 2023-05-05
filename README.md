@@ -4,8 +4,8 @@
 
 ## Hi there 👋
 I'm Gargi, a Front-end Developer based in Vancouver, BC, Canada (& Remote). I create custom websites and apps to help people go further online.
-- 👩‍💻 I’m currently work as a Frontend developer in Cellar Technologies, a management software company for wineries. 
-- 🔭 I’m currently working on my <a href="https://www.gargithakur.com" target="_blank">portfolio website</a>
+- 👩‍💻 I currently work as a Frontend developer in Cellar Technologies, a management software company for wineries. 
+- 🔭 I’m also working on updating my <a href="https://www.gargithakur.com" target="_blank">portfolio website</a>
 - 🌱 I’m currently learning DSA and System design
 - ⚙️ I'm familiar with HTML, CSS/SASS, JavaScript, ReactJS, Redux, Redux-Saga, React Native, Node.js, MongoDB, PostgresSQL, GraphQL, REST APIs, Postman, Linux Bash Scripting, Figma, Adobe Photoshop, Adobe Illustrator... 
 - 📫 How to reach me: <br /> [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/Gargi-Thakur/)](https://github.com/Gargi-Thakur/) 
